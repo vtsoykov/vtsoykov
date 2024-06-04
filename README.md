@@ -1,3 +1,6 @@
+
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/vtsoykov/vtsoykov/assets/171483538/edca84bd-5c64-431a-a611-794a3dcde88a)
+
 # 👾 Valentin Tsoykov
 
 **`Python 🐍 / Technology Enthusiast `**
