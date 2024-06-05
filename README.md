@@ -5,7 +5,7 @@
 
 **`Python 🐍 / Technology Enthusiast `**
 
-As a technology enthusiast with a strong passion for artificial intelligence, I am currently expanding my skill set by studing Python programming. My professional journey is driven by a deep curiosity and a commitment to self-improvement, creativity, and continious learning. 
+I'm passionate about software engineering and always looking for opportunities to leverage my skills and make meaningful contributions to the software engineering industry. My professional journey is driven by a deep curiosity and a commitment to self-improvement, creativity, and continious learning. 
 
 ---
 
