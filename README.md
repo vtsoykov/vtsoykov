@@ -5,7 +5,7 @@
 
 **`Python 🐍 / Technology Enthusiast `**
 
-I'm passionate about software engineering and always looking for opportunities to leverage my skills and make meaningful contributions to the software engineering industry. My professional journey is driven by a deep curiosity and a commitment to self-improvement, creativity, and continious learning. 
+  Hi! I’m Valentin Tsoykov, a software engineering enthusiast with a passion for Python, JavaScript, and React.js. As a student at Software University, I’m honing my technical skills and eager to contribute to innovative projects. My goal? Contribution to the software engineering industry. My professional journey is driven by a deep curiosity and a commitment to self-improvement, creativity, and continious learning.. Let’s connect! 🚀
 
 ---
 
