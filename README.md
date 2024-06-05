@@ -16,7 +16,7 @@ As a technology enthusiast with a strong passion for artificial intelligence, I 
 <a href="https://instagram.com/vtsoykov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vtsoykov" height="30" width="40" /></a>
 </p>
 
----
+#
 
 ### Languages and Tools
 
@@ -29,7 +29,7 @@ As a technology enthusiast with a strong passion for artificial intelligence, I 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
----
+#
 
 ### Stats
 
