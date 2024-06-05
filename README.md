@@ -3,26 +3,17 @@
 
 # 👾 Valentin Tsoykov
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/vtsoykov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vtsoykov" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/valentin-tsoykov-52803227b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentin-tsoykov-52803227b" height="30" width="40" /></a>
-<a href="https://instagram.com/vtsoykov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vtsoykov" height="30" width="40" /></a>
-</p>
-
 **`Python 🐍 / Technology Enthusiast `**
 
 As a technology enthusiast with a strong passion for artificial intelligence, I am currently expanding my skill set by studing Python programming. My professional journey is driven by a deep curiosity and a commitment to self-improvement, creativity, and continious learning. 
 
----
-
-### 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vtsoykov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vtsoykov" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/valentin-tsoykov-52803227b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentin-tsoykov-52803227b" height="30" width="40" /></a>
 <a href="https://instagram.com/vtsoykov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vtsoykov" height="30" width="40" /></a>
 </p>
+---
 
 ### Languages and Tools
 
