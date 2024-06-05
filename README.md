@@ -28,9 +28,9 @@ As a technology enthusiast with a strong passion for artificial intelligence, I 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-Stats
 
-![Vtsoykov's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtsoykov&show_icons=true&theme=gruvbox)
+### Stats
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vtsoykov&theme=dark" alt="vtsoykov" /></p>
 
 #
