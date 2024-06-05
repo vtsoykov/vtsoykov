@@ -13,6 +13,7 @@ As a technology enthusiast with a strong passion for artificial intelligence, I 
 <a href="https://linkedin.com/in/valentin-tsoykov-52803227b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentin-tsoykov-52803227b" height="30" width="40" /></a>
 <a href="https://instagram.com/vtsoykov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vtsoykov" height="30" width="40" /></a>
 </p>
+
 ---
 
 ### Languages and Tools
