@@ -7,6 +7,8 @@
 
 As a technology enthusiast with a strong passion for artificial intelligence, I am currently expanding my skill set by studing Python programming. My professional journey is driven by a deep curiosity and a commitment to self-improvement, creativity, and continious learning. 
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vtsoykov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vtsoykov" height="30" width="40" /></a>
@@ -27,6 +29,7 @@ As a technology enthusiast with a strong passion for artificial intelligence, I 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+---
 
 ### Stats
 
